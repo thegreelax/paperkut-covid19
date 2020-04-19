@@ -10,6 +10,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
   <script src='https://kit.fontawesome.com/a076d05399.js'></script>
   <link rel="stylesheet" href="css/style.css" type="text/css"/>
+  <link rel="icon" href="img/flaticon.jpg" type="image/jpg">
 </head>
 <body>
 
