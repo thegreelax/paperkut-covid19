@@ -35,8 +35,26 @@ nav
   font-size: 1.5em;
 }
 
+.new_numbers
+{
+  font-size: 1.2em;
+}
+
 .credits
 {
   margin-top: 10%;
   font-size: 0.8em;
+}
+
+.detail
+{
+  border: 1px solid #c1c1c1;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: #dde3e3;
+}
+
+#panel
+{
+  display: none;
 }
