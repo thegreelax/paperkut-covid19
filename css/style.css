@@ -1,0 +1,42 @@
+
+nav
+{
+  background-color: #16170f;
+}
+
+.nav-link:hover
+{
+  color: #dde3e3;
+}
+
+.nav-link
+{
+  color: #d24546;
+}
+
+.main
+{
+  margin-top: 10px;
+}
+
+.content
+{
+  background-color: #f3f3f3;
+  padding: 10px;
+  border-top: 1px solid #c2b09a;
+}
+.case_icon
+{
+  width: 20px;
+}
+
+.data_numbers
+{
+  font-size: 1.5em;
+}
+
+.credits
+{
+  margin-top: 10%;
+  font-size: 0.8em;
+}
